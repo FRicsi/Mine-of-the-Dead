@@ -8,5 +8,3 @@ There will be some inevitable similarity with other products (without the need f
 The III act are going through the main story line of Night of the Living Dead - Dawn of the Dead - Days of the Dead.
 
 The mod's focus mainly on survival, therefore resource gathering is significant, while crafting has lower priority and mining has the lowest.
-
-_Planned: Act IV. (Land of the Dead) and Act V. (Diary of the Dead). Maybe the Survival of the Dead could be an epilogue?_
