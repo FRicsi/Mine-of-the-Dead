@@ -16,9 +16,10 @@ The mod's focus mainly on survival, therefore resource gathering is significant,
 
 
 Tools used:
+
 GIMP 2.8 (textures) -> http://www.gimp.hu/
 
-Blockbench (mostly entity creating) -> blockbench.net/
+Blockbench (mostly entity creating) -> http://blockbench.net/
 
 MrCrayfish's model creator (mostly .json model creating) -> https://mrcrayfish.com/tools?id=mc
 
