@@ -17,9 +17,15 @@ The mod's focus mainly on survival, therefore resource gathering is significant,
 
 Tools used:
 GIMP 2.8 (textures) -> http://www.gimp.hu/
+
 Blockbench (mostly entity creating) -> blockbench.net/
+
 MrCrayfish's model creator (mostly .json model creating) -> https://mrcrayfish.com/tools?id=mc
+
 MCAnimator (animating entities, objects) -> http://www.dd-studios.net/index.php/mcanimator
+
 MCEdit (creating .schematics) -> http://www.mcedit.net/
 
+
 MCreator (Grabbing the whole stuff together, GUIs, AI, Items, y'know. Everything)-> https://mcreator.net/
+
