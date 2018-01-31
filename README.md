@@ -27,6 +27,8 @@ MCAnimator (animating entities, objects) -> http://www.dd-studios.net/index.php/
 
 MCEdit (creating .schematics) -> http://www.mcedit.net/
 
+Audiotool (we're bored without music) -> https://www.audiotool.com/
+
 
 MCreator (Grabbing the whole stuff together, GUIs, AI, Items, y'know. Everything)-> https://mcreator.net/
 
