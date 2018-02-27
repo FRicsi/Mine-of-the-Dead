@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "nomoremineinhell:yellowpaintedasphalt3" },
+        "facing=west": { "model": "nomoremineinhell:yellowpaintedasphalt3", "y": 90 },
+        "facing=north": { "model": "nomoremineinhell:yellowpaintedasphalt3", "y": 180 },
+        "facing=east": { "model": "nomoremineinhell:yellowpaintedasphalt3", "y": 270 }
+    }
+}
