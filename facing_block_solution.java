@@ -17,6 +17,11 @@ import net.minecraft.util.Mirror;
 import net.minecraft.util.Rotation;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
+
+    /**
+     * theese two import was not found in glazed terracotta or mcreator java source - but necessary!
+     */
+
 import net.minecraft.block.properties.PropertyDirection;
 import net.minecraft.block.BlockHorizontal;
 
@@ -150,6 +155,7 @@ static class BlockYellowPaintedAsphalt3 extends BlockHorizontal
     /**
      * Convert the given metadata into a BlockState for this Block
      */
+    
     public IBlockState getStateFromMeta(int meta)
     {
         return this.getDefaultState().withProperty(FACING, EnumFacing.getHorizontal(meta));
