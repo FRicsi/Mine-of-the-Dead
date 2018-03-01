@@ -1,6 +1,8 @@
-    /**
-     * original minecraft glazed.terracotta
-     */
+/** asphalt block with yellow line on it for street
+*the code copy/pasted, minimal development for make it working
+*you can use, rewrite the code below for free of course - if you want to add credit, much appreciated :) */
+
+/**#############original minecraft glazed.terracotta import #####################*/
 package net.minecraft.block;
 
 import net.minecraft.block.material.EnumPushReaction;
@@ -17,18 +19,12 @@ import net.minecraft.util.Mirror;
 import net.minecraft.util.Rotation;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
-
-    /**
-     * theese two import was not found in glazed terracotta or mcreator java source - but necessary!
-     */
-
+    /**#############theese two import was not found in glazed terracotta or mcreator java source - but necessary!#######*/
 import net.minecraft.block.properties.PropertyDirection;
-import net.minecraft.block.BlockHorizontal;
+import net.minecraft.block.BlockHorizontal; /**required for rotation*/
 
-    /**
-     * mcreator stuff
-     */
-     
+/**############# mcreator imports for simple block #####################*/   
+
 import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.common.registry.ForgeRegistries;
@@ -99,17 +95,21 @@ public class mcreator_yellowPaintedAsphalt3 {
      }
 
 static class BlockYellowPaintedAsphalt3 extends BlockHorizontal
+    /** replace "Block" to "BlockHorizontal", don't forget to import as well.
+    *This will apply horizontal rotation properties only; if you want to make vertical rotation, you'll need something else.
+    *Error: you could get error textured block with blue comment on it
+    *if you did not define different y-rotated angles paired with facing in blockstates/<same blockname>.json*/
 {   
     boolean red = false;
     
     protected BlockYellowPaintedAsphalt3()
     {
-
-
         super(Material.ROCK);
         this.setSoundType(SoundType.STONE);
     }
-
+    
+/**############# rotation code block starts here #####################*/  
+    
     protected BlockStateContainer createBlockState()
     {
         return new BlockStateContainer(this, new IProperty[] {FACING});
@@ -165,7 +165,9 @@ static class BlockYellowPaintedAsphalt3 extends BlockHorizontal
     {
         return EnumPushReaction.PUSH_ONLY;
     }
-
+    
+/**############# rotation code block ends here #####################*/ 
+    
           @Override
           public void onBlockAdded(World world, BlockPos pos, IBlockState state) {
                int i = pos.getX();
