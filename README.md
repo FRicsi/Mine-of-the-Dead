@@ -1,5 +1,5 @@
 # No more Mine in Hell
-Minecraft mod
+<b>Minecraft mod</b>
 
 The mod based on George A. Romero's artistic work of Living Dead series aka the "Dead Series".
 It reflects to and uses basic rules of the world of original movies and the remakes as well. Main concept of the mod is to survive a zombie pandemic outbreak, defend yourself while keep focus on the actual goal of the act 1-3. You'll have some weapons, tools and the skill of crafting some items, but basically not much. The world have had its economy that collapsed now, and missing many things to let you craft essential things (like guns). However, you can fix almost everything.
