@@ -16,7 +16,7 @@ The three act are going through the main story line of Night of the Living Dead 
 <b>I. "Zombies...are...coming" - Night of the Living Dead</b>
 
 First act is simply the outbreak. The'yre coming from everywhere, they won't stop, they want to eat flesh. The world just collapsed, you have to run away from them, but soon recognized: they <u>can</u> hunting you forever shambling right behind you.
-There is no good defense against them, their endurance and rage hunger drives them through everything. Moreover, they have basic intelligence to recognize if they cannot break through walls, doors, barricades, there must be a way to your warm flesh somehow - and they'll find it. Fortunately there is an army fort or base somewhere you can hide and your life guaranteed. Let's pack up head to that coordinates you copied out from that radio's jammed noise in static you've just find and made working.
+There is no good defense against them, their endurance and rage hunger drives them through everything. Moreover, they have basic intelligence to recognize if they cannot break through walls, doors, barricades, there must be a way to your warm flesh somehow - and they'll find it. Fortunately there is an army fort or base somewhere you can hide and your life guaranteed. Let's pack up and head to that coordinates you copied out from the radio's jammed noise in static you've just find and made working.
 
 <b>II. "Cover me!" - Dawn of the Dead</b>
 
