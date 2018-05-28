@@ -1,4 +1,4 @@
-![No more mine in hell banner should be here.] (/nmmih_banner.png)
+![No more mine in hell banner should be here.] (nmmih_banner.png)
 
 ## No more Mine in Hell
 
