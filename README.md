@@ -1,4 +1,4 @@
-![alt text] (https://github.com/FRicsi/No-more-Mine-in-Hell/blob/master/nmmih_banner.png "No more mine in hell banner should be here.")
+![alt text](https://github.com/FRicsi/No-more-Mine-in-Hell/blob/master/nmmih_banner.png "No more mine in hell banner should be here.")
 
 ## No more Mine in Hell
 
